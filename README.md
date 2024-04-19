@@ -23,19 +23,20 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 
 The dataset used in this project contains information about various laptops such as brand, processor type, RAM, storage, screen size, etc. and their corresponding prices. It is crucial for training and evaluating our machine learning models.
 
-Dataset - 
+Dataset - https://www.kaggle.com/datasets/muhammetvarl/laptop-price
 
 ## Usage
 
 1. Clone this repository to your local machine:
-git clone https://github.com/girishgautam/laptop_price_prediction.git
+- git clone https://github.com/girishgautam/laptop_price_prediction.git
 
 2. Navigate to the project directory:
 
-cd laptop_price_prediction
+- cd laptop_price_prediction
 
 4. Run the notebook or script containing the code:
-jupyter notebook laptop_price_prediction.ipynb
+
+- jupyter notebook laptop_price_prediction.ipynb
 
 5. Follow the instructions provided in the notebook or script to preprocess the data, train the machine learning model, and make predictions.
 
